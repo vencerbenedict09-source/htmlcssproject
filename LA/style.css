@@ -1,0 +1,20 @@
+#header {
+    color: blue;
+}
+
+#photo {
+    border: 10px solid green;
+    padding: 10px;
+}
+header > p {
+    color:green;
+}
+h3 {
+    color: red;
+}
+#food {
+    color: red;
+}
+.last {
+    color: green;
+}
