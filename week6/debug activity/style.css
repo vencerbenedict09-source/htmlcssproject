@@ -1,0 +1,45 @@
+
+/********************Element Selectors***************************/
+body {
+  color: #393e46;
+  background-color: #e3fdfd;
+  /*color: #800000;  Maroon color
+  background-color: linen;*/
+}
+h1, h2 {
+  color:#00adb5;
+}
+hr {
+  border-style: dotted none none; /*When three values are specified, the first style applies to the top, the second to the left and right, the third to the bottom.*/
+  height: 0px;
+  width: 5%;
+  border-color: gray;
+  border-width: 5px;
+}
+h3 {
+  color: #45454d;
+}
+tr {
+  text-align:left;
+}
+td {
+  padding-bottom:3%;
+}
+/************************ID Selectors***************************/
+#myName {
+  font-family: cursive; color: #007aa7;
+}
+/************************CLASS Selectors***************************/
+.myList {
+  color: green;
+}
+.circular {
+  border-radius: 20%;
+}
+.circular:hover {
+  border-radius: 0;
+}
+.container {
+  margin: auto;
+  width: 50%;
+}
