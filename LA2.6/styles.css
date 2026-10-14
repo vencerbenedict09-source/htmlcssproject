@@ -1,0 +1,18 @@
+/* CSS stylesheet */
+body {
+  text-align: center;
+  background-color: lightgray;
+}
+img {
+  width: 100px;
+}
+h1 {
+  width: 30%;
+  background-color: blue;
+  margin: auto;
+}
+p {
+  width: 40%;
+  padding: 20px;
+  margin: auto;
+}
