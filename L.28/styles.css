@@ -1,0 +1,32 @@
+/* CSS Stylesheet styles.css. Use the fonts: */
+/*Great vibes, cursive*/
+.Top h2 {
+  font-family: Great vibes, cursive;
+}
+/*'Raleway', sans-serif;*/
+.Top p {
+  font-family: raleway, sans-serif;
+}
+.Top p span {
+  font-weight: bold;
+}
+.Middle h2 {
+  font-family: PT sans narrow, sans-serif;
+}
+/* 'Share Tech Mono', monospace; */
+.Middle p {
+  font-family: roboto slab, serif;
+}
+.Middle p span {
+  font-weight: bold;
+}
+/* share tech mono, monospace; */
+.Bottom h2 {
+  font-family: share tech mono, monospace;
+}
+.Bottom p {
+  font-family: lato, sans-serif;
+}
+.Bottom p span {
+  font-weight: bold;
+}
